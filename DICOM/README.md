@@ -35,3 +35,6 @@
 - ​打印服务：控制DICOM打印机输出标准化胶片，急诊科即时打印诊断报告；
 - ​工作流管理：同步检查日程、设备状态（Modality Worklist），优化放射科资源调度；
 ​- Web集成（WADO）：通过HTTP协议访问DICOM影像，支持浏览器直接浏览，移动端远程会诊；
+
+## 学习资料
+- https://orthanc.uclouvain.be/book/dicom-guide.html#dicom-guide
